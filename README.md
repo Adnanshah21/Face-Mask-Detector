@@ -2,11 +2,11 @@
 
 COVID-19: Face Mask Detector, developed  a detection Model with 99% accuracy in training & testing. Automatically detect whether a person is wearing a mask or not in real-time video streams.
 
-![image](https://github.com/alinasahoo/Face-Mask-Detector/blob/main/examples/Alina_FM3.PNG)
-![image](https://github.com/alinasahoo/Face-Mask-Detector/blob/main/examples/Alina_FM4.PNG)
+![image](https://github.com/alinasahoo/Face-Mask-Detector/blob/main/examples/Adnan FM3.PNG)
+![image](https://github.com/alinasahoo/Face-Mask-Detector/blob/main/examples/Adnan FM4.PNG)
 
-![image](https://github.com/alinasahoo/Face-Mask-Detector/blob/main/examples/Alina_FM1.PNG)
-![image](https://github.com/alinasahoo/Face-Mask-Detector/blob/main/examples/Alina_FM2.PNG)
+![image](https://github.com/alinasahoo/Face-Mask-Detector/blob/main/examples/Adnan FM1.PNG)
+![image](https://github.com/alinasahoo/Face-Mask-Detector/blob/main/examples/Adnan FM2.PNG)
 
 Table of Content
 ----------------
