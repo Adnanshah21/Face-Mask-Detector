@@ -2,11 +2,11 @@
 
 COVID-19: Face Mask Detector, developed  a detection Model with 99% accuracy in training & testing. Automatically detect whether a person is wearing a mask or not in real-time video streams.
 
-![image](https://github.com/Adnanshah21/Face-Mask-Detector/blob/main/examples/Adnan FM3.PNG)
-![image](https://github.com/Adnanshah21/Face-Mask-Detector/blob/main/examples/Adnan FM4.PNG)
+![image](https://github.com/Adnanshah21/Face-Mask-Detector/blob/main/examples/Adnan%20FM3.png)
+![image](https://github.com/Adnanshah21/Face-Mask-Detector/blob/main/examples/Adnan%20FM4.png)
 
-![image](https://github.com/Adnanshah21/Face-Mask-Detector/blob/main/examples/Adnan FM1.PNG)
-![image](https://github.com/Adnanshah21/Face-Mask-Detector/blob/main/examples/Adnan FM2.PNG)
+![image](https://github.com/Adnanshah21/Face-Mask-Detector/blob/main/examples/Adnan%20FM1.png)
+![image](https://github.com/Adnanshah21/Face-Mask-Detector/blob/main/examples/Adnan%20FM2.png)
 
 Table of Content
 ----------------
